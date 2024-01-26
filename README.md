@@ -3,7 +3,7 @@
 Uma breve descrição sobre o que esse projeto faz e para quem ele é
 
 Readme para armazena resumos sobre Git e GitHub
-[Digita innovation](https://www.dio.me).
+[Digita innovation](https://www.dio.me). Walmir
 
 ## 📚 Documentação sobre o curso de git 
 - [docuementação git](https://www.git-scm.com/doc)
