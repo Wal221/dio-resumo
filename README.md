@@ -17,6 +17,6 @@ Readme para armazena resumos sobre Git e GitHub
 ---
 git commit 
 ---
-
+Walmir Cardoso
 
 ##🔍 Referencias
